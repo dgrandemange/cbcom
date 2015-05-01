@@ -1,2 +1,2 @@
 # cbcom
-A library exposign classes related to CBCOM protocol and CBBCOM pseudo-session management
+A library exposing classes related to CBCOM protocol and CBCOM pseudo-session management
